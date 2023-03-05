@@ -1,9 +1,9 @@
 import threading, os
 
-PORT = your-port
+PORT = "your-port"
 
 def vpn():
-	if PORT == your-port:
+	if PORT == "your-port":
 		print("Please change port in main.py")
 		exit()
 	else:
